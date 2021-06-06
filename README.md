@@ -2,7 +2,7 @@
 
 github(https://github.com/mirzajiji31/mid-term).
 
-#netlify : url : https://60bca0a3c4f65b00070e3cab--inspiring-hoover-b6ae59.netlify.app/login
+#netlify : url : https://determined-poincare-83f28d.netlify.app/login
 
 ## Available Scripts
 
